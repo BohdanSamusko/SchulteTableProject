@@ -9,7 +9,7 @@
 # Schulte Table
 Schulte Table - an application that helps you increase peripheral vision, general perception and speed of reading. The app contains a table with 25 items with different numbers from 1 to 25. User needs to find all numbers in that table starting from finding number "1" and ending on "25". 
 
-**Latest production version: 1.2.0**
+**Latest production version: 1.2.44**
 
 ## Download
 
